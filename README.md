@@ -53,9 +53,7 @@ The study area is Chennai, Tamil Nadu, India.
 * Google Earth Engine
 * JavaScript
 * Remote Sensing
-* GIS
 * Landsat 8 Thermal Analysis
-* QGIS
 
 ---
 
